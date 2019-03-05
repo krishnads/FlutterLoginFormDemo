@@ -15,9 +15,21 @@
 
 
 
+![simulator screen shot - iphone xr - 2019-03-05 at 17 48 08](https://user-images.githubusercontent.com/16478904/53805733-fc1a9b80-3f70-11e9-8a6b-bdcca2cd7f93.png)
 
 
-##===============
+![simulator screen shot - iphone xr - 2019-03-05 at 17 48 10](https://user-images.githubusercontent.com/16478904/53805734-fcb33200-3f70-11e9-9132-de20355d0631.png)
+
+
+![simulator screen shot - iphone xr - 2019-03-05 at 17 48 13](https://user-images.githubusercontent.com/16478904/53805735-fcb33200-3f70-11e9-8817-7b46d07fc035.png)
+
+
+![simulator screen shot - iphone xr - 2019-03-05 at 17 48 16](https://user-images.githubusercontent.com/16478904/53805737-fcb33200-3f70-11e9-8939-dd0c7f76e2bc.png)
+
+
+
+
+##===============##
 
 
 
